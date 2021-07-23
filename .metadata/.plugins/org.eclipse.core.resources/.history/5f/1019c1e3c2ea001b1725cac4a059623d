@@ -1,0 +1,9 @@
+<%@page import="java.util.Date"%>
+<html>
+<body>
+<h2><center>Displaying Current Date and Time</center></h2>
+<%
+out.println("Current Date and Time : "+new Date());
+%>
+</body>
+</html>

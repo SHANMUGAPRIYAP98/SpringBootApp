@@ -1,0 +1,28 @@
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+<bean id="account" class="com.srm.springio.Account">
+     <property name="balance" value="100000"></property>
+     <property name="accountNo" value="12345678912345"></property>
+     <property name="custName" value="hari krishnan"></property>
+     <property name="bankName" value="IOB"></property>
+      <property name="wdraw" value="20000"></property>
+       <property name="deposit" value="5000"></property>
+       <property name="customer" ref="cust"></property>
+</bean>
+<bean id="cust" class="com.srm.springio.Customer">
+<property name="custId" value="123455789999999"></property>
+<constructor-arg index="0" name="email" value="hari2017@gmail.com"></constructor-arg>
+<constructor-arg index="1" name="phone" value="9789098369"></constructor-arg>
+</bean>
+<bean id="bank1" class="com.srm.springio.Bank" scope="singleton">
+<property name="bankName" value="ICICI"></property>
+</bean>
+<bean id="bank2" class="com.srm.springio.Bank" scope="prototype">
+<property name="bankName" value="IOB"></property>
+</bean>
+<bean id="bank3" class="com.srm.springio.Bank" scope="prototype">
+<property name="bankName" value="Axis"></property>
+</bean>
+</beans>

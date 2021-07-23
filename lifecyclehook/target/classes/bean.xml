@@ -1,0 +1,60 @@
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   <bean id="cycle" class="com.srm.lifecyclehooks.LifeCycle" init-method="init" destroy-method="destroy">
+   <property name="data" value="Hello!!LifeCycle Hooks"/>
+   </bean>
+   <bean id="course" class="com.srm.lifecyclehooks.Course" >
+   <property name="cid" value="ML101"/>
+   <property name="cname" value="machine learning"/>
+   <property name="department" value="computer science"/>
+   </bean>
+   <bean id="stud" class="com.srm.lifecyclehooks.Student" autowire="byName" >
+   <property name="sid" value="STUD101"/>
+   <property name="sname" value="diyashri"/>
+   <property name="address" value="Kodungaiyur"/>
+   </bean>
+   <bean id="stud1" class="com.srm.lifecyclehooks.Student" autowire="byType" >
+   <property name="sid" value="STUD102"/>
+   <property name="sname" value="hari"/>
+   <property name="address" value="Kodungaiyur"/>
+   </bean>
+  <bean id="address" class="com.srm.lifecyclehooks.Address">
+ <property name="city" value="chennai"/>
+   <property name="state" value="tamilnadu"/>
+   <property name="pincode" value="600118"/>
+  </bean>
+
+   <bean id="collection" class="com.srm.lifecyclehooks.CollectionDI">
+   <property name="subjects">
+   <list>
+   <value>Machine Learning</value>
+   <value>Artificial Intelligence</value>
+   <value>IOT</value>
+   <value>Database Management</value>
+   <value>Cyber Security</value>
+   </list>
+   </property>
+   <property name="marks">
+   <set>
+   <value>88.00</value>
+   <value>72.50</value>
+   <value>90.78</value>
+   <value>60.04</value>
+   <value>88.00</value>
+   </set>
+   </property>
+     <property name = "wonders">
+         <map>
+            <entry key = "1" value = "Taj Mahal"/>
+            <entry key = "2" value = "China Wall"/>
+            <entry key = "3" value = "Colosseum"/>
+            <entry key = "4" value = "Petra"/>
+            <entry key = "5" value = "Christ the Redeemer"/>
+            <entry key = "6" value = "Machu Pichu"/>
+            <entry key = "7" value = "Chichén Itzá El Castillo"/>
+         </map>
+      </property>
+   </bean>
+</beans>

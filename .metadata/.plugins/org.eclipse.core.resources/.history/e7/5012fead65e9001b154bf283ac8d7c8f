@@ -1,0 +1,25 @@
+package com.srm.stringutil;
+
+public class StringDemo {
+
+	public void reverseString(String val)
+	{
+		StringBuffer sb=new StringBuffer(val);
+		String original=sb.toString();
+		String reverse=sb.reverse().toString();
+		System.out.println(reverse+" is reversed string");
+		if(original.equals(reverse))
+		{
+			System.out.println(reverse+" is a ");
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

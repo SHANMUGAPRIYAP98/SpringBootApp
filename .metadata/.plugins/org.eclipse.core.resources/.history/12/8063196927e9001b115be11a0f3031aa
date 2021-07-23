@@ -1,0 +1,10 @@
+package com.srm.basicprog.pal;
+
+public class PalindromeDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

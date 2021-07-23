@@ -1,0 +1,20 @@
+<%@page import="java.util.Date"%>
+<html>
+<head>
+<script type="text/javascript">
+var username=document.getElementById("uname");
+console.log(username);
+</script>
+</head>
+<body>
+<form>
+<table>
+<tr><td>Username : </td><td><input type="text" id="uname" /></td></tr>
+</table>
+</form>
+<h2><center>Displaying Current Date and Time</center></h2>
+<%
+out.println("Current Date and Time : "+new Date());
+%>
+</body>
+</html>

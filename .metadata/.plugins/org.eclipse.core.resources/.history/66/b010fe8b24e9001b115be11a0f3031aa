@@ -1,0 +1,14 @@
+package com.srm.basicprog.arm;
+
+class Armstrong
+{
+	
+}
+public class ArmstrongDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

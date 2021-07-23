@@ -1,0 +1,17 @@
+package com.srm.child1;
+
+
+public class Employee {
+
+	public int id=101;
+	String name;
+	double salary;
+	
+	public static void main(String[] args) {
+		
+		
+	}
+
+	
+
+}

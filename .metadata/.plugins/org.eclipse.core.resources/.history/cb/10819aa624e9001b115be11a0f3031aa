@@ -1,0 +1,19 @@
+package com.srm.basicprog.arm;
+
+class Armstrong
+{
+	void checkArmstrong(int num)
+	{
+		
+	}
+}
+public class ArmstrongDemo {
+
+	public static void main(String[] args) {
+		
+		int num1=153;
+		int num2=567;
+
+	}
+
+}

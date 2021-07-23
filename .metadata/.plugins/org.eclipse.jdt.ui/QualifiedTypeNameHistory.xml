@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.srm.basicprog.pal.Palindrome"/>
+    <fullyQualifiedTypeName name="com.srm.basicprog.arm.Armstrong"/>
+    <fullyQualifiedTypeName name="com.srm.parent.child1.Emp"/>
+    <fullyQualifiedTypeName name="sun.util.resources.cldr.ext.TimeZoneNames_en_MP"/>
+    <fullyQualifiedTypeName name="com.srm.child1.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+</qualifiedTypeNameHistroy>

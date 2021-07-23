@@ -1,0 +1,14 @@
+package com.srm.child2;
+
+import com.srm.child1.Employee;
+
+
+
+public class SalPercent {
+
+	public static void main(String[] args) {
+		Employee e=new Employee();
+		System.out.println(e.id);
+	}
+
+}

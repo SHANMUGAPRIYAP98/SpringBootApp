@@ -1,0 +1,27 @@
+package com.srm.child1;
+class Emp
+{
+	int id;
+	String name;
+	double salary;
+	Emp(int id,String name,double salary)
+	{
+		this.id=id;
+		this.name=name;
+		this.salary=salary;
+	}
+	void display()
+	{
+		System.out.println(name);
+	}
+}
+
+public class Employee {
+
+	public static void main(String[] args) {
+		Emp e=new Emp(1,"diyashri",50000);
+		e.display();
+
+	}
+
+}

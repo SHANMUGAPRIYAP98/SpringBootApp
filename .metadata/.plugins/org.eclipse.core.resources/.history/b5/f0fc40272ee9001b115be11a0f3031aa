@@ -1,0 +1,20 @@
+package com.srm.child1;
+
+
+public class Employee {
+
+	public int id=101;
+	public String name="diyashri";
+	public double salary=50000;
+	
+	public static void main(String[] args) {
+		Employee e=new Employee();
+		System.out.println("Id : "+e.id);
+		System.out.println("Name : "+e.name);
+		System.out.println("Salary : "+e.salary);
+		
+	}
+
+	
+
+}

@@ -1,0 +1,17 @@
+package com.srm.child2;
+
+import com.srm.child1.Employee;
+
+
+
+public class SalPercent {
+   
+	public static void main(String[] args) {
+		Employee e=new Employee();
+		if(e.salary>=50000)
+		{
+			e.salary=e.salary+(e.salary*0.5);
+		}
+	}
+
+}
