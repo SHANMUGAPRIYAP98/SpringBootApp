@@ -2173,3 +2173,328 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-07-22 13:53:36,376 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\DateTime\src\main\resources
 2021-07-22 13:53:36,378 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-22 13:53:36,378 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\DateTime\src\test\resources
+2021-07-24 11:11:37,000 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-24 11:11:43,924 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:11:43,925 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\DateTime\src\main\resources
+2021-07-24 11:11:43,928 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:11:43,928 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\DateTime\src\test\resources
+2021-07-24 11:12:56,924 [Worker-8: Creating project "DateUtil"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\DateUtil\pom.xml.
+2021-07-24 11:12:57,496 [Worker-8: Creating project "DateUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DateUtil/src/main/java
+2021-07-24 11:12:57,498 [Worker-8: Creating project "DateUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DateUtil/src/main/resources
+2021-07-24 11:12:57,498 [Worker-8: Creating project "DateUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DateUtil/src/test/java
+2021-07-24 11:12:57,499 [Worker-8: Creating project "DateUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DateUtil/src/test/resources
+2021-07-24 11:12:58,809 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:12:58,820 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:12:58,824 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:12:58,826 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:12:59,381 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\DateUtil\pom.xml.
+2021-07-24 11:12:59,386 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.srm.RootProj:Root:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\pom.xml.
+2021-07-24 11:12:59,435 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\StringUtil\pom.xml.
+2021-07-24 11:13:00,765 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:13:00,769 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:13:00,771 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:13:00,773 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:13:00,795 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:13:00,797 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:13:00,798 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:13:00,800 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:14:07,521 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:14:07,529 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:14:07,531 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:14:07,532 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:14:31,565 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:14:31,566 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:14:31,568 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:14:31,570 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:15:13,184 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:15:13,186 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:15:13,187 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:15:13,189 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:15:17,237 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:15:17,239 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:15:17,241 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:15:17,241 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:16:28,584 [Worker-6: Creating project "WebUtil"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:16:29,214 [Worker-6: Creating project "WebUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebUtil/src/main/java
+2021-07-24 11:16:29,215 [Worker-6: Creating project "WebUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WebUtil/src/main/resources
+2021-07-24 11:16:29,215 [Worker-6: Creating project "WebUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebUtil/src/test/java
+2021-07-24 11:16:29,216 [Worker-6: Creating project "WebUtil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WebUtil/src/test/resources
+2021-07-24 11:16:29,876 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:16:29,877 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:16:29,879 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:16:29,880 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:16:30,992 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:16:30,993 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:16:30,996 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:16:30,997 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:17:25,737 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:17:25,746 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:17:25,779 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:17:26,282 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:17:26,283 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:17:26,285 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:17:26,286 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:17:26,286 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:17:26,287 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:17:26,291 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:20:19,726 [Worker-10: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Maven_Projects\Root\WebUtil\pom.xml
+2021-07-24 11:20:19,778 [Worker-10: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:20:20,492 [Worker-10: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebUtil/src/main/java
+2021-07-24 11:20:20,492 [Worker-10: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WebUtil/src/main/resources
+2021-07-24 11:20:20,492 [Worker-10: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebUtil/src/test/java
+2021-07-24 11:20:20,637 [Worker-10: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-07-24 11:20:20,977 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:20:20,978 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:20:20,978 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:20:20,979 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:20:22,049 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:20:22,050 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:20:22,050 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:20:22,052 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:21:06,184 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:21:06,188 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:21:06,209 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:21:06,623 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:06,625 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:21:06,628 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:06,629 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:21:06,629 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:21:06,629 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:21:06,634 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:42,551 [Worker-12: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/WebUtil/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-07-24 11:21:42,689 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:21:42,693 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:21:43,251 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:21:43,251 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:21:51,239 [Worker-13: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:21:51,239 [Worker-13: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:21:52,092 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:21:52,097 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:21:52,098 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:21:52,200 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:21:52,201 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:21:52,554 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:52,555 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:21:52,557 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:52,557 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:21:52,558 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:21:52,558 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:21:52,560 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:53,662 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:53,663 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:21:53,664 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:21:53,664 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:23:44,685 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:23:44,685 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:23:44,689 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:23:44,689 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:23:44,690 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:23:44,691 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:24:05,873 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:05,874 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:05,877 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:05,878 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:30,224 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:30,225 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:30,226 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:30,227 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:35,046 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:35,047 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:35,048 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:35,049 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:42,427 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:42,428 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:42,428 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:42,430 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:45,434 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:45,435 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:24:45,436 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:24:45,437 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:26:25,742 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:26:25,743 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:26:25,744 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-24 11:26:25,745 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:27:07,741 [Worker-11: Launching utility] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root
+2021-07-24 11:27:07,743 [Worker-11: Launching utility] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:27:38,976 [Worker-0: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Child1: com.srm.child1:Child1:0.0.1-SNAPSHOT with classifier  to /Child1/target/classes
+2021-07-24 11:27:52,701 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\StringUtil\pom.xml.
+2021-07-24 11:27:53,023 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:27:53,023 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:27:53,024 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:27:53,025 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:28:02,165 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:28:02,166 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:28:02,167 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:28:02,167 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:28:18,908 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\DateUtil\pom.xml.
+2021-07-24 11:28:19,081 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:28:19,082 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:28:19,084 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:28:19,084 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:28:26,679 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:28:26,680 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:28:26,681 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:28:26,681 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:28:47,449 [Worker-11: Launching utility] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root
+2021-07-24 11:28:47,450 [Worker-11: Launching utility] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:29:07,931 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:29:07,939 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:29:07,940 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:29:08,421 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:08,421 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:08,422 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:08,422 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:29:08,423 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:29:08,423 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:29:08,426 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:08,468 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:08,469 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:08,470 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:08,470 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:08,494 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:08,494 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:08,495 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:08,496 [Worker-4: Building Project DateUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:09,037 [Worker-10: Building Project StringUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:09,038 [Worker-10: Building Project StringUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:09,039 [Worker-10: Building Project StringUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:09,039 [Worker-10: Building Project StringUtil] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:16,005 [Worker-11: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:29:16,006 [Worker-11: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:29:16,008 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:16,008 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:29:16,009 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:29:16,009 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:29:37,157 [Worker-11: Launching utility] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root
+2021-07-24 11:29:37,157 [Worker-11: Launching utility] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:30:44,816 [Worker-10: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root\WebUtil
+2021-07-24 11:30:44,816 [Worker-10: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B  -Dstyle.color=always
+2021-07-24 11:31:41,158 [Worker-12: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root\WebUtil
+2021-07-24 11:31:41,159 [Worker-12: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:32:39,337 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:32:40,028 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:32:40,028 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:32:56,375 [Worker-12: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:32:56,375 [Worker-12: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:32:56,623 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:32:56,628 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:32:56,628 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:32:56,976 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:32:56,976 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:32:56,977 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:32:56,977 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:32:56,977 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:32:56,978 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:32:56,980 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:33:10,468 [Worker-13: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root\WebUtil
+2021-07-24 11:33:10,469 [Worker-13: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:34:31,381 [Worker-10: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/WebUtil/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-07-24 11:34:31,500 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:34:32,385 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:34:32,385 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:34:42,230 [Worker-16: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root\WebUtil
+2021-07-24 11:34:42,230 [Worker-16: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:34:42,330 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\StringUtil\pom.xml.
+2021-07-24 11:34:42,523 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:34:42,524 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:34:42,525 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:34:42,526 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:34:58,407 [Worker-12: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:34:58,407 [Worker-12: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:34:58,666 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:34:58,669 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:34:58,670 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:34:59,019 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:34:59,019 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:34:59,019 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:34:59,019 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:34:59,020 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:34:59,020 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:34:59,022 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:35:14,299 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\StringUtil\pom.xml.
+2021-07-24 11:35:14,483 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:35:14,484 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:35:14,485 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:35:14,486 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:35:31,476 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\DateUtil\pom.xml.
+2021-07-24 11:35:31,719 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:35:31,719 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:35:31,720 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:35:31,720 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:35:36,160 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\DateUtil\pom.xml.
+2021-07-24 11:35:36,286 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:35:36,287 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:35:36,288 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:35:36,288 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:35:44,081 [Worker-15: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root\WebUtil
+2021-07-24 11:35:44,081 [Worker-15: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:36:15,225 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\DateUtil\pom.xml.
+2021-07-24 11:36:15,366 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:36:15,367 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:36:15,367 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:36:15,367 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:36:24,456 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\StringUtil\pom.xml.
+2021-07-24 11:36:24,624 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:36:24,624 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:36:24,625 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:36:24,625 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:36:31,781 [Worker-18: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root\WebUtil
+2021-07-24 11:36:31,781 [Worker-18: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:37:11,670 [Worker-17: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:37:11,671 [Worker-17: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:37:11,792 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:37:11,797 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:37:11,797 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:37:12,470 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:37:12,470 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:37:12,471 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:37:12,471 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:37:12,471 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:37:12,471 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:37:12,474 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:37:21,724 [Worker-16: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Maven_Projects\Root\WebUtil
+2021-07-24 11:37:21,724 [Worker-16: Launching webdata] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2021-07-24 11:37:32,518 [Worker-11: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:37:32,518 [Worker-11: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:37:32,632 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.srm.webutil:WebUtil:0.0.1-SNAPSHOT @ D:\Maven_Projects\Root\WebUtil\pom.xml.
+2021-07-24 11:37:32,638 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/StringUtil: com.srm.stringutil:StringUtil:0.0.1-SNAPSHOT with classifier  to /StringUtil/target/classes
+2021-07-24 11:37:32,639 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DateUtil: com.srm.dateutil:DateUtil:0.0.1-SNAPSHOT with classifier  to /DateUtil/target/classes
+2021-07-24 11:37:33,005 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:37:33,006 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-24 11:37:33,006 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 11:37:33,007 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Maven_Projects\Root\WebUtil\src\test\resources
+2021-07-24 11:37:33,007 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebUtil
+2021-07-24 11:37:33,007 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebUtil
+2021-07-24 11:37:33,009 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

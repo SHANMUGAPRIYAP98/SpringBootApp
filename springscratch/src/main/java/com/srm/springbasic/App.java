@@ -13,7 +13,6 @@ public class App {
 
         AbstractApplicationContext context1 = new ClassPathXmlApplicationContext("beans.xml");
         Lifecycle lc=(Lifecycle) context1.getBean("lifecycle");
-        lc.getData();
         context1.registerShutdownHook();
 
     }

@@ -2,7 +2,7 @@ package com.srm.stringutil;
 
 public class StringDemo {
 
-	public void reverseString(String val)
+	public static void reverseString(String val)
 	{
 		StringBuffer sb=new StringBuffer(val);
 		String original=sb.toString();

@@ -5,3 +5,7 @@ D:\Maven_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\22675907
 \DateTime\target\generated-sources\annotations
 D:\Maven_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1708541185.index
 \firstwebapp\src\main\java
+D:\Maven_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1186578760.index
+\WebUtil\src\main\resources
+D:\Maven_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1102990682.index
+\webproj\src\main\resources

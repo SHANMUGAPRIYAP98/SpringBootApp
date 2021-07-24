@@ -36,7 +36,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="All Catalogs"/>
+		<item key="catalog" value="internal"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -51,6 +51,7 @@
 			<item value="org.WebUtil"/>
 		</list>
 		<list key="groupId">
+			<item value="com.srm.webutil"/>
 			<item value="com.srm.RootProj"/>
 		</list>
 		<list key="artifactId">
@@ -70,19 +71,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.srm.WebUtil"/>
 			<item value="com.srm.RootProj"/>
-			<item value="com.srm.stringutil"/>
 		</list>
 		<list key="name">
-			<item value="WebUtil"/>
-			<item value="StringUtil"/>
-			<item value="Root"/>
 		</list>
 		<list key="artifactId">
 			<item value="WebUtil"/>
 			<item value="Root"/>
-			<item value="StringUtil"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -103,6 +98,7 @@
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
 			<item value="WebUtil"/>
+			<item value="DateUtil"/>
 			<item value="StringUtil"/>
 			<item value="Child2"/>
 			<item value="Child1"/>

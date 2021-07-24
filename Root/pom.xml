@@ -8,5 +8,6 @@
   <modules>
   	<module>StringUtil</module>
   	<module>WebUtil</module>
+  	<module>DateUtil</module>
   </modules>
 </project>

@@ -5,6 +5,11 @@
     <artifactId>Root</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+  </properties>
   <groupId>com.srm.stringutil</groupId>
   <artifactId>StringUtil</artifactId>
   <name>StringUtil</name>

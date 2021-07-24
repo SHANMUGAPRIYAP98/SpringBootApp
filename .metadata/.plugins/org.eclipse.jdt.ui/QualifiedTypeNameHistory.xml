@@ -7,4 +7,5 @@
     <fullyQualifiedTypeName name="sun.util.resources.cldr.ext.TimeZoneNames_en_MP"/>
     <fullyQualifiedTypeName name="com.srm.child1.Employee"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
